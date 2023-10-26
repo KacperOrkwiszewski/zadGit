@@ -9,15 +9,15 @@ int main() {
     scanf("%d", &number);
     if(number < 0 || number > 10)
     {
-        printf("Zla liczba");
+        printf("Zla liczba\n");
         return 1;
     }
     int myNumber = rand() % 11;
     if(myNumber > number)
-        printf("Wygralem!!!");
+        printf("Wygralem!!!\n");
     else if(myNumber < number)
-        printf("Wygrales :(");
+        printf("Wygrales :(\n");
     else
-        printf("Remis");
+        printf("Remis\n");
     return 0;
 }
