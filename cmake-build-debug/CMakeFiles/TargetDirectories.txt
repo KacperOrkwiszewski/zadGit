@@ -1,0 +1,3 @@
+C:/Users/orgwi/Desktop/ou/lab4/zadGit/cmake-build-debug/CMakeFiles/zadGit.dir
+C:/Users/orgwi/Desktop/ou/lab4/zadGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/orgwi/Desktop/ou/lab4/zadGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
